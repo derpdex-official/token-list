@@ -15,3 +15,7 @@ This repository is used to keep tracking the tokens that can be used in DerpDeX.
 | zkUSD  | [0x8AD2aCE83d6d2Ba46774b70813D74a4aC0038237](https://goerli.explorer.zksync.io/address/0x8AD2aCE83d6d2Ba46774b70813D74a4aC0038237) |  |
 | zkPEPE | [0x49d532498ff8a6835E9bF537B22D416C05EacCC9](https://goerli.explorer.zksync.io/address/0x49d532498ff8a6835E9bF537B22D416C05EacCC9) |  |
 | DAI    | [0xeF5eDCDB81C1a8235A93BE48a08877D5c862A7Bc](https://goerli.explorer.zksync.io/address/0xeF5eDCDB81C1a8235A93BE48a08877D5c862A7Bc) | [0x4BEf76b6b7f2823C6c1f4FcfEACD85C24548ad7e](https://explorer.zksync.io/address/0x4BEf76b6b7f2823C6c1f4FcfEACD85C24548ad7e) |
+
+# Faucet
+
+Please visit our [faucet](https://faucet.derpdex.com/) page to get some testnet tokens. 
