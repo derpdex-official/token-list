@@ -1,0 +1,40 @@
+{
+  "name": "ZkSync Era Mainnet Token List",
+  "timestamp": "2023-06-30T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "tokens": [
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
+      "chainId": 324,
+      "decimals": 8
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+      "chainId": 324,
+      "decimals": 6
+    },
+    {
+      "name": "USD+",
+      "symbol": "USD+",
+      "address": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557",
+      "chainId": 324,
+      "decimals": 6
+    },
+    {
+      "name": "Dai",
+      "symbol": "DAI",
+      "address": "0x4BEf76b6b7f2823C6c1f4FcfEACD85C24548ad7e",
+      "chainId": 324,
+      "decimals": 18
+    }
+  ]
+}

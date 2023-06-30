@@ -1,0 +1,61 @@
+{
+  "name": "ZkSync Era Testnet Token List",
+  "timestamp": "2021-09-30T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "tokens": [
+    {
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "address": "0xE6E3854A3dF24043890BB5376DEbFA178C56a011",
+      "chainId": 280,
+      "decimals": 8
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x46caA59e33FEb040442CC9722922260cBdDb3F6F",
+      "chainId": 280,
+      "decimals": 6
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x0890A779A8675464b8d0BeDaF62620cE1EA62e4A",
+      "chainId": 280,
+      "decimals": 6
+    },
+    {
+      "name": "zKUSD",
+      "symbol": "zKUSD",
+      "address": "0x8AD2aCE83d6d2Ba46774b70813D74a4aC0038237",
+      "chainId": 280,
+      "decimals": 8
+    },
+    {
+      "name": "zKUSD",
+      "symbol": "zKUSD",
+      "address": "0x8AD2aCE83d6d2Ba46774b70813D74a4aC0038237",
+      "chainId": 280,
+      "decimals": 8
+    },
+    {
+      "name": "zKPepe",
+      "symbol": "zKPepe",
+      "address": "0x49d532498ff8a6835E9bF537B22D416C05EacCC9",
+      "chainId": 280,
+      "decimals": 8
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0xeF5eDCDB81C1a8235A93BE48a08877D5c862A7Bc",
+      "chainId": 280,
+      "decimals": 18
+    }
+  ]
+}
