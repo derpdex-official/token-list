@@ -13,21 +13,24 @@
       "symbol": "WBTC",
       "address": "0xE6E3854A3dF24043890BB5376DEbFA178C56a011",
       "chainId": 280,
-      "decimals": 8
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/WBTC.png"
     },
     {
       "name": "USDC",
       "symbol": "USDC",
       "address": "0x46caA59e33FEb040442CC9722922260cBdDb3F6F",
       "chainId": 280,
-      "decimals": 6
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/USDC.png"
     },
     {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x0890A779A8675464b8d0BeDaF62620cE1EA62e4A",
       "chainId": 280,
-      "decimals": 6
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/USDT.png"
     },
     {
       "name": "zKUSD",
@@ -55,7 +58,8 @@
       "symbol": "DAI",
       "address": "0xeF5eDCDB81C1a8235A93BE48a08877D5c862A7Bc",
       "chainId": 280,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/Badge_Dai.webp"
     }
   ]
 }
