@@ -23,18 +23,39 @@
       "decimals": 6
     },
     {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+      "chainId": 324,
+      "decimals": 6
+    },
+    {
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "address": "0xFD282F16a64c6D304aC05d1A58Da15bed0467c71",
+      "chainId": 324,
+      "decimals": 18
+    },
+    {
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "address": "0x5B09802d62d213c4503B4b1Ef5F727ef62c9F4eF",
+      "chainId": 324,
+      "decimals": 18
+    },
+    {
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "address": "0xAA610193768223438866AD9e1973447d76e4Cf4A",
+      "chainId": 324,
+      "decimals": 9
+    },
+    {
       "name": "USD+",
       "symbol": "USD+",
       "address": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557",
       "chainId": 324,
       "decimals": 6
-    },
-    {
-      "name": "Dai",
-      "symbol": "DAI",
-      "address": "0x4BEf76b6b7f2823C6c1f4FcfEACD85C24548ad7e",
-      "chainId": 324,
-      "decimals": 18
     }
   ]
 }
