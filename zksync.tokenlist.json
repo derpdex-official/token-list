@@ -13,21 +13,23 @@
       "symbol": "WBTC",
       "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
       "chainId": 324,
-      "decimals": 8
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/WBTC.png"
     },
     {
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
       "chainId": 324,
-      "decimals": 6
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/USDC.png"
     },
     {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
       "chainId": 324,
-      "decimals": 6
+      "decimals": 6,
     },
     {
       "name": "Pepe",
@@ -55,7 +57,8 @@
       "symbol": "USD+",
       "address": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557",
       "chainId": 324,
-      "decimals": 6
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/USD_PLUS.png"
     }
   ]
 }
