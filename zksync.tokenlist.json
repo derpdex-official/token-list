@@ -30,6 +30,7 @@
       "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
       "chainId": 324,
       "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/USDT.png"
     },
     {
       "name": "Pepe",
