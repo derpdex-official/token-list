@@ -37,14 +37,16 @@
       "symbol": "PEPE",
       "address": "0xFD282F16a64c6D304aC05d1A58Da15bed0467c71",
       "chainId": 324,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/pepe-token.webp"
     },
     {
       "name": "SHIBA INU",
       "symbol": "SHIB",
       "address": "0x5B09802d62d213c4503B4b1Ef5F727ef62c9F4eF",
       "chainId": 324,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/shiba.webp"
     },
     {
       "name": "FLOKI",
