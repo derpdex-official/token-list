@@ -53,7 +53,8 @@
       "symbol": "FLOKI",
       "address": "0xAA610193768223438866AD9e1973447d76e4Cf4A",
       "chainId": 324,
-      "decimals": 9
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/floki.webp"
     },
     {
       "name": "USD+",
