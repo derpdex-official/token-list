@@ -71,6 +71,14 @@
       "chainId": 324,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/USD_PLUS.png"
+    },
+    {
+      "name": "Flipped Pepe",
+      "symbol": "EPEP",
+      "address": "0x8d45667b7A19f50ED035960816EE880D9dbF0009",
+      "chainId": 324,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/epep.webp"
     }
   ]
 }
