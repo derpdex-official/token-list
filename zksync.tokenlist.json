@@ -3,7 +3,7 @@
   "timestamp": "2023-07-18T00:00:00.000Z",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -87,6 +87,14 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/cheems.jpeg"
+    },
+    {
+      "name": "ZkDerpina",
+      "symbol": "ZKDERPINA",
+      "address": "0x8574852F548351aD5fE7f712009362997c1d14Bb",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/zkDerpina.png"
     }
   ]
 }
