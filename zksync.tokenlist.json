@@ -1,9 +1,9 @@
 {
   "name": "ZkSync Era Mainnet Token List",
-  "timestamp": "2023-07-18T00:00:00.000Z",
+  "timestamp": "2023-07-31T00:00:00.000Z",
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tags": {},
@@ -95,6 +95,14 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/zkDerpina.png"
+    },
+    {
+      "name": "Balder",
+      "symbol": "BALDER",
+      "address": "0xae9aa7beeb2e724969dfc7b381c5c19578c52663",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/balder.jpeg"
     }
   ]
 }
