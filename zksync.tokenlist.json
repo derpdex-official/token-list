@@ -3,7 +3,7 @@
   "timestamp": "2023-07-31T00:00:00.000Z",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tags": {},
@@ -103,6 +103,14 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/balder.jpeg"
+    },
+    {
+      "name": "Pond0x",
+      "symbol": "PNDC",
+      "address": "0x2b433Bf0E739Bff33F2908C636c448A4001370eb",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/pndc.png"
     }
   ]
 }
