@@ -1,0 +1,35 @@
+{
+  "name": "Base Testnet Token List",
+  "timestamp": "2023-08-16T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "tokens": [
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x2a337C269E74aF16d5A608956B675ade882220f3",
+      "chainId": 84531,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/USDC.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xeA6658dcCF674Ed9902B4439798b06cE048791E5",
+      "chainId": 84531,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/USDT.png"
+    },
+    {
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "address": "0xC0936f993D5a84696B5578455aDeB16591074B97",
+      "chainId": 84531,
+      "decimals": 18
+    }
+  ]
+}
