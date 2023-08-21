@@ -1,13 +1,21 @@
 {
   "name": "Base Token List",
-  "timestamp": "2023-08-17T00:00:00.000Z",
+  "timestamp": "2023-08-22T00:00:00.000Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/weth.webp"
+    },
     {
       "name": "USD Base Coin",
       "symbol": "USDC",
