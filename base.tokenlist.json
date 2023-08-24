@@ -3,7 +3,7 @@
   "timestamp": "2023-08-22T00:00:00.000Z",
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tags": {},
@@ -55,6 +55,14 @@
       "chainId": 8453,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/axlusdc.webp"
+    },
+    {
+      "name": "Just Lame",
+      "symbol": "LAME",
+      "address": "0x66b05A9CDE9557b05878C1A8A9251b4504AdA5c2",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/lame.png"
     }
   ]
 }
