@@ -55,6 +55,14 @@
       "chainId": 8453,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/axlusdc.webp"
+    },
+    {
+      "name": "Just Lame",
+      "symbol": "LAME",
+      "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/lame.png"
     }
   ]
 }
