@@ -59,9 +59,9 @@
     {
       "name": "Just Lame",
       "symbol": "LAME",
-      "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+      "address": "0x66b05A9CDE9557b05878C1A8A9251b4504AdA5c2",
       "chainId": 8453,
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/lame.png"
     }
   ]
