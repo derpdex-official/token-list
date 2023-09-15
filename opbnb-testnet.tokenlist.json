@@ -9,14 +9,6 @@
   "tags": {},
   "tokens": [
     {
-      "name": "Wrapped BNB",
-      "symbol": "WBNB",
-      "address": "0x4200000000000000000000000000000000000006",
-      "chainId": 5611,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/WBNB.png"
-    },
-    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x5461A9dBeA2F5eFa771a2d6F8F78bC589d4Bb0D7",
