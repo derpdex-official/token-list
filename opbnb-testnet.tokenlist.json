@@ -1,0 +1,40 @@
+{
+  "name": "opBNB Testnet Token List",
+  "timestamp": "2021-09-30T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "tokens": [
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 5611,
+      "decimals": 18
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x5461A9dBeA2F5eFa771a2d6F8F78bC589d4Bb0D7",
+      "chainId": 5611,
+      "decimals": 6
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC.B",
+      "address": "0x9E6ad61Fe5854CB69d3e72882D5b4B7C7D528047",
+      "chainId": 5611,
+      "decimals": 18
+    },
+    {
+      "name": "PEPE",
+      "symbol": "PEPE",
+      "address": "0x88D332Ba0FF7B335531e8488Ebc1fe6107F2b05f",
+      "chainId": 5611,
+      "decimals": 18
+    }
+  ]
+}
