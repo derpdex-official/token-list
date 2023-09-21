@@ -1,0 +1,43 @@
+{
+  "name": "OpBNB Token List",
+  "timestamp": "2023-09-21T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "tokens": [
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 204,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/WBNB.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTC.B",
+      "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+      "chainId": 204,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/btc.b.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+      "chainId": 204,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/USDT.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+      "chainId": 204,
+      "decimals": 18
+    }
+  ]
+}
