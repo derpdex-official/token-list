@@ -3,7 +3,7 @@
   "timestamp": "2023-07-31T00:00:00.000Z",
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tags": {},
@@ -119,6 +119,14 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/brics+.webp"
+    },
+    {
+      "name": "veSync",
+      "symbol": "VS",
+      "address": "0x5756a28e2aae01f600fc2c01358395f5c1f8ad3a",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/veSync.png"
     }
   ]
 }
