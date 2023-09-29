@@ -37,7 +37,16 @@
       "symbol": "ETH",
       "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
       "chainId": 204,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/ethereum-token.png"
+    },
+    {
+      "name": "First Digital USD",
+      "symbol": "FDUSD",
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "chainId": 204,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/fdusd.png"
     }
   ]
 }
