@@ -55,6 +55,14 @@
       "chainId": 8453,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/axlusdc.webp"
+    },
+    {
+      "name": "Derp",
+      "symbol": "DERP",
+      "address": "0xebb78043e29f4af24e6266a7d142f5a08443969e",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/derp.png"
     }
   ]
 }
