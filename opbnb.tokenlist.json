@@ -1,9 +1,9 @@
 {
   "name": "OpBNB Token List",
-  "timestamp": "2023-09-21T00:00:00.000Z",
+  "timestamp": "2023-11-19T00:00:00.000Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -47,6 +47,14 @@
       "chainId": 204,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/fdusd.png"
+    },
+    {
+      "name": "Derp",
+      "symbol": "DERP",
+      "address": "0xebb78043e29f4af24e6266a7d142f5a08443969e",
+      "chainId": 204,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/derp.png"
     }
   ]
 }
