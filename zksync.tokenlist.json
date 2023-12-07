@@ -1,6 +1,6 @@
 {
   "name": "ZkSync Era Mainnet Token List",
-  "timestamp": "2023-11-19T00:00:00.000Z",
+  "timestamp": "2023-12-07T00:00:00.000Z",
   "version": {
     "major": 1,
     "minor": 8,
@@ -135,6 +135,14 @@
       "chainId": 324,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/derp.png"
+    },
+    {
+      "name": "ZKPEPE",
+      "symbol": "ZKPEPE",
+      "address": "0x7d54a311d56957fa3c9a3e397ca9dc6061113ab3",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/main/assets/zkpepe-circle.png"
     }
   ]
 }
