@@ -55,6 +55,14 @@
       "chainId": 204,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/derp.png"
+    },
+    {
+      "name": "derps",
+      "symbol": "derps",
+      "address": "0xd21ee5e3b2829c07d1bfebfaddff9777235c0dc7",
+      "chainId": 204,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-list/master/assets/derps.png"
     }
   ]
 }
